@@ -1,7 +1,7 @@
 package main 
 
 import (
-	"github.com/changli-pts/go-high-concurrency/common"
+	"github.com/changli-pts/high_concurrency/tree/master/common"
 	"fmt"
 )
 
